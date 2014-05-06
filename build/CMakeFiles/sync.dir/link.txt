@@ -1,0 +1,1 @@
+/usr/bin/gcc  -g    CMakeFiles/sync.dir/utils.c.o CMakeFiles/sync.dir/main.c.o  -o bin/sync -rdynamic 

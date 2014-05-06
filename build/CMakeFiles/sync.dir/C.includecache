@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhao/obj/partTimeJob/sync/main.c
+stdio.h
+-
+stdlib.h
+-
+strings.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+utils.h
+/home/zhao/obj/partTimeJob/sync/utils.h
+
+/home/zhao/obj/partTimeJob/sync/utils.h
+sys/types.h
+-
+sys/ipc.h
+-
+sys/sem.h
+-
+
