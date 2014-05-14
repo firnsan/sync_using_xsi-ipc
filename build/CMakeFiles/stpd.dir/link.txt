@@ -1,1 +1,0 @@
-/usr/bin/gcc  -g    CMakeFiles/stpd.dir/utils.c.o CMakeFiles/stpd.dir/main.c.o  -o bin/stpd -rdynamic 
